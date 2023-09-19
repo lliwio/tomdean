@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Top from "../components/global/Top.astro";
+import Hero from "../components/landing/Hero.astro";
+import Footer from "../components/global/Footer.astro";
+import Socials from "../components/landing/Socials.astro";
+
+
+import { AstroSeo } from "@astrolib/seo";
+---
+
+<AstroSeo
+  title="Zerk"
+  description="A Portfolio site about zerk"
+  canonical="https://www.zerk.vercel.app"
+/>
+<BaseLayout>
+  <Top/>
+  <Hero />
+  <Socials />
+  <Footer />
+</BaseLayout>
+
+
+
+<!--- Crafted by Jamship -->
