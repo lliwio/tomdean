@@ -2,7 +2,7 @@
 
 ![Zerk Template](https://zerk.vercel.app/zerk.png "Zerk Template")
 
-**Zerk**is a simple, yet elegant, linktree-style website template designed for Discord developers. highlighting skills and social presence with style and ease 🙌 all while using Discord's color palette for a cohesive look.
+**Zerk** is a simple, yet elegant, linktree-style website template designed for Discord developers. highlighting skills and social presence with style and ease 🙌 all while using Discord's color palette for a cohesive look.
 
 ## ✨ Features
 
