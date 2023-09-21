@@ -4,6 +4,13 @@
 
 **Zerk** is a simple, yet elegant, linktree-style website template designed for Discord developers. highlighting skills and social presence with style and ease 🙌 all while using Discord's color palette for a cohesive look.
 
+## 😚 Created Using
+  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---------------------------------------
+
 ## ✨ Features
 
 - **Socials Container**: Display links to your social media profiles, making it easy for visitors to connect with you.
