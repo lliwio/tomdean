@@ -13,11 +13,7 @@
 
 ## 💯Lighthouse Score
 
-<p align="center">
-  <a href="https://pagespeed.web.dev/analysis/https-zerk-vercel-app/iv2xknok2a?form_factor=mobile">
-    <img width="510" alt="Visvrs Lighthouse Score" src="public/visvrs-lighthouse-score.svg">
-  <a>
-</p>
+
 
 ## ✨ Features
 
