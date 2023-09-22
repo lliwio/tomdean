@@ -13,6 +13,12 @@
 
 ## 💯Lighthouse Score
 
+<p align="center">
+  <a href="https://pagespeed.web.dev/analysis/https-zerk-vercel-app/yyttmrmz4a?form_factor=desktop">
+    <img width="600" alt="Zerk Speed Test" src="public/speedtest.svg">
+  <a>
+</p>
+
 
 
 ## ✨ Features
