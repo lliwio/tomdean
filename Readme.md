@@ -84,7 +84,7 @@ Open a pull request on the main repository, explaining your changes and why they
 
 **Zerk** is licensed under the **MIT License**. You are free to use, modify, and distribute this template for your own purposes. Please refer to the license file for more details.
 
-## ✏️ Customize to Your Needs
+## ✏️ Customize Your Needs
 
 Feel free to customize **Zerk** to suit your specific requirements. You can change the colors, add new sections, or make any other adjustments to make it uniquely yours.
 
