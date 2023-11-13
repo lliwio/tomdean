@@ -1,13 +1,13 @@
 {
-  "name": "zerk",
-  "description": "A free template for discord bot developer",
+  "name": "tomdean",
+  "description": "standby for updates",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
   "author": {
-    "name": "Jamship",
-    "email": "hello@jamship.io",
-    "url": "https://github.com/Jamship-io"
+    "name": "tom dean",
+    "email": "thomasdean23@gmail.com",
+    "url": "https://github.com/lliwio"
   },
 
   "scripts": {
