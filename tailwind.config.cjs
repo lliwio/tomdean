@@ -106,8 +106,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ["Inter", ...defaultTheme.fontFamily.sans],
-        custom: ["Poppins", "sans"],
+        sans: ["IBM Plex Mono", ...defaultTheme.fontFamily.sans],
+        custom: ["Permanent Marker", "sans"],
       },
     },
   },

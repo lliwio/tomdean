@@ -9,7 +9,6 @@
     "email": "thomasdean23@gmail.com",
     "url": "https://github.com/lliwio"
   },
-
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -18,7 +17,6 @@
     "astro": "astro"
   },
   "devDependencies": {
-   
     "@astrojs/tailwind": "^4.0.0",
     "@tailwindcss/forms": "^0.5.4",
     "@tailwindcss/typography": "^0.5.9",
@@ -28,6 +26,8 @@
   "dependencies": {
     "@astrojs/sitemap": "^2.0.1",
     "@astrolib/seo": "^0.6.0",
+    "@fontsource/ibm-plex-mono": "^5.0.8",
+    "@fontsource/permanent-marker": "^5.0.8",
     "install": "^0.13.0",
     "ncu": "^0.2.1",
     "npm": "^9.8.1",
