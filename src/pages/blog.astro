@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Top from "../components/global/Top.astro";
+import About from "../components/landing/About.astro";
+import Footer from "../components/global/Footer.astro";
+import Image from "../components/landing/Image.astro";
+import { AstroSeo } from "@astrolib/seo";
+---
+
+<AstroSeo
+  title="Tom Dean"
+  description="On standby"
+  canonical="https://tomdean.co.uk"
+/>
+<BaseLayout>
+  <Top />
+  <About />
+  <Footer />
+</BaseLayout>

@@ -9,7 +9,7 @@ const currentPath = pathname.slice(1); // remove the first "/"
     <div class="flex flex-row text-lg items-center gap-5 mt-5 sm:justify-end sm:mt-0 sm:ps-5">
       <a class={currentPath === "" ? "active" : ""} href="/" aria-current="page">Home</a>
       <a class={currentPath === "about" ? "active" : ""} href="/about">About</a>
-      <a class="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">Work</a>
+      <a class={currentPath === "blog" ? "active" : ""} href="/blog">Blog</a>
       <a class="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">Blog</a>
     </div>
   </nav>

@@ -1,5 +1,10 @@
-<section>
-  image here
-</section>
+---
+// import the Image component and the image
+import { Image } from 'astro:assets';
+import myImage from "../../assets/test.png"; // Image is 1600x900
+---
 
+<div class="mx-auto rotate-3 mt-6">
+<Image src={myImage} alt="A description of my image." />
+</div>
 
