@@ -4,13 +4,6 @@ import sitemap from "@astrojs/sitemap";
 
 
 export default defineConfig({
-   site: 'https://zerk.vercel.app',
+   site: 'https://tomdean.co.uk',
   integrations: [tailwind(),  sitemap()]
 });
-
-
-
-
-
-
-// crafted by http://github.com/Jamship-io

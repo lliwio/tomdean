@@ -21,11 +21,12 @@
     "@tailwindcss/forms": "^0.5.4",
     "@tailwindcss/typography": "^0.5.9",
     "@types/alpinejs": "^3.7.2",
-    "astro": "^2.10.6"
+    "astro": "^3.5.4"
   },
   "dependencies": {
     "@astrojs/sitemap": "^2.0.1",
     "@astrolib/seo": "^0.6.0",
+    "@fontsource-variable/manrope": "^5.0.17",
     "@fontsource/ibm-plex-mono": "^5.0.8",
     "@fontsource/permanent-marker": "^5.0.8",
     "install": "^0.13.0",

@@ -91,27 +91,11 @@ module.exports = {
       colors: {
         black: "#000",
         yellow: "#fde047",
-       
-        accent: {
-         50: "#EBEDFF",
-      100: "#D6DAFF",
-      200: "#A8B1FF",
-      300: "#808CFF",
-      400: "#5263FF",
-      500: "#283CFF",
-      600: "#0017EB",
-      700: "#0012B3",
-      800: "#000C75",
-      900: "#00063D"
-        },
       },
       fontFamily: {
-        sans: ["IBM Plex Mono", ...defaultTheme.fontFamily.sans],
-        custom: ["Permanent Marker", "sans"],
+        sans: ['Manrope Variable', ...defaultTheme.fontFamily.sans]
       },
     },
   },
   plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
 };
-
-
