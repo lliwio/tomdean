@@ -6,7 +6,7 @@ const currentPath = pathname.slice(1); // remove the first "/"
 <header class="flex flex-wrap w-full py-12 border-b-4 border-blue-500 lowercase">
   <nav class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between text-3xl " aria-label="Global">
     <a class="flex-none font-extrabold" href="/">Tom</a>
-    <ul class="flex flex-row items-center gap-12 mt-5 sm:justify-end sm:mt-0 sm:ps-5">
+    <ul class="flex flex-row items-center gap-12  text-2xl mt-5 sm:justify-end sm:mt-0 sm:ps-5">
       <li><a class={currentPath === "" ? "active" : ""} href="/">Home</a></li>
       <li><a class={currentPath === "about" ? "active" : ""} href="/about">About</a></li>
       <li><a class={currentPath === "blog" ? "active" : ""} href="/blog">Blog</a></li>

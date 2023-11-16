@@ -3,3 +3,11 @@
 @tailwind utilities;
 
 .discord { background: linear-gradient(170deg, rgb(1, 1, 16) 0%, rgb(1, 1, 54) 48%, rgb(44, 14, 23) 100%); user-select: none; }
+
+.wonky-button {
+  transform-style: preserve-3d;
+}
+
+.wonky-button:after {
+  transform: translateZ(-1px);
+}
