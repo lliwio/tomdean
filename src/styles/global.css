@@ -11,3 +11,7 @@
 .wonky-button:after {
   transform: translateZ(-1px);
 }
+
+.text-shadow {
+  text-shadow: 3px 3px 65px #f82425, 6px 8px 0 #9f00fd, 10px -8px 0 #de016a;
+}
